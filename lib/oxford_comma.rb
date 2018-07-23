@@ -5,6 +5,6 @@ def oxford_comma(array)
     temp = array[0]
     return temp
   else    
-    array[-1] = "and #{array[-1]}"
+    #array[-1] = "and #{array[-1]}"
   end
 end
